@@ -1,0 +1,32 @@
+{
+  "name": "climate-data-operators",
+  "version": "0.1.0",
+  "description": "NodeJS wrapper for CDO",
+  "main": "index.js",
+  "directories": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbald/climate-data-operators.git"
+  },
+  "keywords": [
+    "cdo",
+    "netcdf",
+    "grib",
+    "grib1",
+    "grib2",
+    "weather",
+    "climate"
+  ],
+  "author": "Nicolas Baldeck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nbald/climate-data-operators/issues"
+  },
+  "homepage": "https://github.com/nbald/climate-data-operators#readme",
+  "dependencies": {
+    "eccodes-data-grib2": "^0.1.0"
+  }
+}
